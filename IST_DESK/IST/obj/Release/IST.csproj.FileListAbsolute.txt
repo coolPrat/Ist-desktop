@@ -1,0 +1,11 @@
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\bin\Release\IST.exe.config
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\bin\Release\IST.exe
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\bin\Release\IST.pdb
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\bin\Release\Newtonsoft.Json.dll
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\bin\Release\Newtonsoft.Json.xml
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\obj\Release\IST.Form1.resources
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\obj\Release\IST.Form2.resources
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\obj\Release\IST.Properties.Resources.resources
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\obj\Release\IST.csproj.GenerateResource.Cache
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\obj\Release\IST.exe
+C:\Users\Pratik\Documents\Visual Studio 2015\Projects\IST\IST\obj\Release\IST.pdb
